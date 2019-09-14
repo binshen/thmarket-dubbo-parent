@@ -21,6 +21,7 @@
         <module>thmarket-api</module>
         <module>thmarket-service</module>
         <module>thmarket-test</module>
+        <module>thmarket-api-provider</module>
     </modules>
 
     <properties>
